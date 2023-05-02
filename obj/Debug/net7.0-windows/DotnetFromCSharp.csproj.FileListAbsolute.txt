@@ -1,2 +1,15 @@
 T:\APIPO\Dev\C#\DotnetFromCSharp\bin\Debug\net7.0-windows\DotnetFromCSharp.exe
 T:\APIPO\Dev\C#\DotnetFromCSharp\bin\Debug\net7.0-windows\DotnetFromCSharp.dll
+T:\APIPO\Dev\C#\DotnetFromCSharp\bin\Debug\net7.0-windows\DotnetFromCSharp.deps.json
+T:\APIPO\Dev\C#\DotnetFromCSharp\bin\Debug\net7.0-windows\DotnetFromCSharp.runtimeconfig.json
+T:\APIPO\Dev\C#\DotnetFromCSharp\bin\Debug\net7.0-windows\DotnetFromCSharp.pdb
+T:\APIPO\Dev\C#\DotnetFromCSharp\obj\Debug\net7.0-windows\DotnetFromCSharp.csproj.AssemblyReference.cache
+T:\APIPO\Dev\C#\DotnetFromCSharp\obj\Debug\net7.0-windows\DotnetFromCSharp.GeneratedMSBuildEditorConfig.editorconfig
+T:\APIPO\Dev\C#\DotnetFromCSharp\obj\Debug\net7.0-windows\DotnetFromCSharp.AssemblyInfoInputs.cache
+T:\APIPO\Dev\C#\DotnetFromCSharp\obj\Debug\net7.0-windows\DotnetFromCSharp.AssemblyInfo.cs
+T:\APIPO\Dev\C#\DotnetFromCSharp\obj\Debug\net7.0-windows\DotnetFromCSharp.csproj.CoreCompileInputs.cache
+T:\APIPO\Dev\C#\DotnetFromCSharp\obj\Debug\net7.0-windows\DotnetFromCSharp.dll
+T:\APIPO\Dev\C#\DotnetFromCSharp\obj\Debug\net7.0-windows\refint\DotnetFromCSharp.dll
+T:\APIPO\Dev\C#\DotnetFromCSharp\obj\Debug\net7.0-windows\DotnetFromCSharp.pdb
+T:\APIPO\Dev\C#\DotnetFromCSharp\obj\Debug\net7.0-windows\DotnetFromCSharp.genruntimeconfig.cache
+T:\APIPO\Dev\C#\DotnetFromCSharp\obj\Debug\net7.0-windows\ref\DotnetFromCSharp.dll
